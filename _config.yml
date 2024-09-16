@@ -1,13 +1,14 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "China Travel"
+email: travelchina093111@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+url: "https://travelchina.github.io"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'travelchina'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,7 +21,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: UA-113961418-1
 
 # Authors
 authors:
@@ -43,9 +44,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/travelchina/
+  facebook: https://www.facebook.com/travelchina
+  twitter: https://twitter.com/travelchina
 
 # Plugins
 plugins: 
