@@ -1,7 +1,8 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Thailand Guides"
+email: thaiguides@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+url: "https://thaiguides.github.io"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -20,7 +21,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: UA-113161478-1
 
 # Authors
 authors:
@@ -29,8 +30,8 @@ authors:
     display_name: Sal
     avatar: 'assets/images/sal.png'
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    web: https://thaiguides.github.io
+    twitter: https://twitter.com/thaiguidesgit
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
@@ -43,9 +44,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/sentisabado/
+  facebook: https://www.facebook.com/thaiguidesgit
+  twitter: https://twitter.com/thaiguidesgit
 
 # Plugins
 plugins: 
