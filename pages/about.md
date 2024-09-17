@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
 ---
 
 Welcome to **Thailand Guides**, your ultimate resource for discovering the rich culture, beautiful landscapes, and hidden gems of Thailand! Whether you're planning your first trip to the Land of Smiles or you're a seasoned traveler looking to explore beyond the typical tourist destinations, we’ve got you covered.
