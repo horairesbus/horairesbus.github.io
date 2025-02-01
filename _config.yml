@@ -1,6 +1,6 @@
 title: "Manus et Machina"
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/bioimage.JPG'
 favicon: 'assets/images/favicon.ico'
