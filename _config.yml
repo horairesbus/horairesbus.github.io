@@ -2,7 +2,7 @@ title: "Manus et Machina"
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/bioimage.JPG'
 favicon: 'assets/images/favicon.ico'
 author: Shatha
 paginate: 30
