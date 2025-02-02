@@ -1,7 +1,8 @@
 title: "Manus et Machina"
 timezone: UTC
 baseurl: ""  # Empty means the site is hosted at the root domain
-permalink: "/:title/"
+url: https://shathamaz.github.io/
+permalink: pretty
 favicon: "assets/images/favicon.ico"
 author: Shatha
 paginate: 30
