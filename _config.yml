@@ -1,12 +1,12 @@
 title: "Manus et Machina"
 timezone: UTC
-baseurl: ""
+baseurl: ""  # Empty means the site is hosted at the root domain
 permalink: "/:title/"
-logo: 'assets/images/bioimage.JPG'
-favicon: 'assets/images/favicon.ico'
+logo: "assets/images/bioimage.JPG"
+favicon: "assets/images/favicon.ico"
 author: Shatha
 paginate: 30
-disqus: 'demowebsite'
+disqus: "demowebsite"
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -18,22 +18,21 @@ kramdown:
     disable: true
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 ganalytics: UA-113961478-1
 
 # Authors
 authors:
   Shatha:
-    name: Shatha Almazrouei
-    display_name: Shatha
-    avatar: 'assets/images/bioimage.JPG'
+    name: "Shatha Almazrouei"
+    display_name: "Shatha"
+    avatar: "assets/images/bioimage.JPG"
     description: "Sophomore at NYUAD willing to learn everyday."
 
-
 # Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
- plugins: 
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
