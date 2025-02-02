@@ -2,7 +2,6 @@ title: "Manus et Machina"
 timezone: UTC
 baseurl: ""  # Empty means the site is hosted at the root domain
 permalink: "/:title/"
-logo: "assets/images/bioimage.JPG"
 favicon: "assets/images/favicon.ico"
 author: Shatha
 paginate: 30
